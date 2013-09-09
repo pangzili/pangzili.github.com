@@ -4,7 +4,7 @@
   <title><![CDATA[I pangzi's Blog]]></title>
   <link href="http://pangzili.github.io/atom.xml" rel="self"/>
   <link href="http://pangzili.github.io/"/>
-  <updated>2013-09-09T09:48:06+08:00</updated>
+  <updated>2013-09-09T10:06:08+08:00</updated>
   <id>http://pangzili.github.io/</id>
   <author>
     <name><![CDATA[李伟]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[胖子有了自己的博客]]></title>
+    <link href="http://pangzili.github.io/blog/2013/09/09/pang-zi-you-liao-zi-ji-de-bo-ke/"/>
+    <updated>2013-09-09T09:58:00+08:00</updated>
+    <id>http://pangzili.github.io/blog/2013/09/09/pang-zi-you-liao-zi-ji-de-bo-ke</id>
+    <content type="html"><![CDATA[<p>混迹网络10来年，一直梦想有自己的网页，现在终于有了，以后可以在此记录自己学习工作的点点滴滴。</p>
+]]></content>
+  </entry>
   
 </feed>
